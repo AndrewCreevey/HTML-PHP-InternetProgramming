@@ -1,0 +1,90 @@
+/*Andrew Creevey, 12236284, Assignment 2*/
+
+* {
+	font-family:verdana,sans-serif;
+	font-size :14pt;
+}
+body {
+	background:#f8f8f8;
+	border :1px solid #56C556;
+	margin :20px auto;
+	width :700px;
+}
+html {
+	background:#F2F2F2
+}
+li a, .button {
+	border: 1px black;
+	color: black;
+	text-decoration:none;
+}
+li a:hover, .button:hover {
+	color: #56C556;
+}
+ans {
+	font-size :10pt;
+}
+q {
+	font-size :10pt;
+}
+p {
+	color: red;
+}
+.appname {
+	background :#56C556;
+	color : #2B2B2B;
+	font-family:helvetica;
+	font-size :25pt;
+	font-weight: bold;
+	padding :8px;
+	text-align :center;
+}
+.fieldname {
+	float:left;
+	width:120px;
+}
+.main {
+	margin-left:40px;
+}
+.info {
+	background : #FFB973;
+	border :1px solid green;
+	color : black;
+	margin-left:40px;
+	padding :5px 10px;
+}
+.menu li, .button {
+	background: #ddd;
+	border: 1px solid black;
+	border-radius: 5px;
+	color: #2B2B2B;
+	display :inline;
+	margin-right :8px;
+	padding: 4px 6px;
+}
+.header {
+	font-size: 30px;
+	font-weight: bold;
+}
+.taken, .error {
+	color: red;
+	padding: 5px;
+}
+.available, .correct { 
+	color: green;
+	padding: 5px;
+}
+.whisper {
+	color: #006600;
+	font-style: italic;
+}
+#logo {
+	font-family:Georgia;
+	font-weight:bold;
+	font-style :italic;
+	font-size  :80px;
+}
+
+
+
+
